@@ -1,0 +1,7 @@
+@media (min-width: 768px) {
+    .h-md-100 { height: 100vh; }
+}
+.btn-round { border-radius: 30px; }
+.bg-skyblue { background: #63C5DA; }
+.bg-seafoam { background: #3DED97; }
+.text-cyan { color: #35bdff; }
